@@ -1,4 +1,4 @@
-alert("hey there");
+//alert("hey there");
 
 // $('.count').counterUp({
 //     delay:10,
